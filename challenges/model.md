@@ -4,11 +4,11 @@
 
 **Nickname:** danielhe4rt
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
+**Nível Técnico:** - Estudante-
 
-**Twitter**: https://twitter.com/danielhe4rt (opcional)
+**Twitter**: https://twitter.com/mvsouzaaf 
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** - Baixa -
 
 **Comentários:** Nesse desafio eu achei que ... (Opcional)
 
@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php argv1 argv2 argv3
+dotnet run
 ```
