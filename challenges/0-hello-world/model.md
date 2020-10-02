@@ -2,13 +2,13 @@
 
 **Exercicio:** 0 - Hello World
 
-**Nickname:** danielhe4rt
+**Nickname:** Vidal129
 
 **Nível Técnico:** - Estudante-
 
-**Twitter**: https://twitter.com/mvsouzaaf 
+**Twitter**: https://twitter.com/mvsouzaaf (opcional)
 
-**Dificuldade de Resolução:** - Baixa -
+**Dificuldade de Resolução:** - Baixa/Média/Alta -
 
 **Comentários:** Nesse desafio eu achei que ... (Opcional)
 
